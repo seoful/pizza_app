@@ -1,16 +1,11 @@
-# pizza_market_app
+# Pizza Test App
 
-A new Flutter project.
+An app with three screens that imitates pizza ordering app. On the first screen you can add pizzas to cart. On the second screen you can customize your order. The third screen is some kind of an admin panel. It can be used to add new pizzas to catalog defining their name, price, and number of pizzas in stock. The app is built with usage of BLoC library.
 
-## Getting Started
+Design mockup: [link](https://www.figma.com/file/qtF5W5cnTAq1yNip47m2EX/Pizza-Market-(Copy))
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Catalog screen](https://i.imgur.com/9At15Zg.jpg)
+![Cart screen](https://i.imgur.com/ojn8Wxm.jpg)
+![Admin screen](https://i.imgur.com/gvqYlry.jpg)
